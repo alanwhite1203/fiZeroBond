@@ -57,5 +57,5 @@ Pay Receive	Receive
 
 
 You can find more details at
-https://finpricing.com/lib/EqSwap.html
+https://finpricing.com/lib/EqWarrant.html
 
