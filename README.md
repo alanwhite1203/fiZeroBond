@@ -56,6 +56,9 @@ Face Value	100
 Pay Receive	Receive
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/EqWarrant.html
+
+https://finpricing.com/lib/EqBarrier.html
 
